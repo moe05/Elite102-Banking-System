@@ -1,0 +1,5 @@
+com\moema\App.class
+com\moema\DataLoader.class
+com\moema\AccountHolderActions.class
+com\moema\AdminActions.class
+com\moema\Account.class
