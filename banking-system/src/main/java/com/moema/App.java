@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) {
-                Map<String, Account> accounts = DataLoader.loadAccounts("C:\\Users\\moema\\banking-system\\src\\main\\java\\com\\moema\\Account.txt");
+        Map<String, Account> accounts = DataLoader.loadAccounts("Account.txt");
 
 
         Scanner scanner = new Scanner(System.in);
